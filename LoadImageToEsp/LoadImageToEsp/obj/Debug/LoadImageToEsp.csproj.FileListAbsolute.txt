@@ -1,0 +1,10 @@
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\bin\Debug\LoadImageToEsp.exe.config
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\bin\Debug\LoadImageToEsp.exe
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\bin\Debug\LoadImageToEsp.pdb
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Debug\LoadImageToEsp.csprojAssemblyReference.cache
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Debug\LoadImageToEsp.Form1.resources
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Debug\LoadImageToEsp.Properties.Resources.resources
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Debug\LoadImageToEsp.csproj.GenerateResource.cache
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Debug\LoadImageToEsp.csproj.CoreCompileInputs.cache
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Debug\LoadImageToEsp.exe
+C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Debug\LoadImageToEsp.pdb
