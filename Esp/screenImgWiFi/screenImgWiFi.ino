@@ -74,8 +74,3 @@ void loop()
 {
 	server.handleClient();
 }
-
-
-
-
-
