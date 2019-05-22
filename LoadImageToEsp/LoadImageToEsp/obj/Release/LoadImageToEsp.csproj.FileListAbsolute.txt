@@ -8,3 +8,13 @@ C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageT
 C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.exe
 C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.pdb
 C:\Users\gigst\source\repos\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.csprojAssemblyReference.cache
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\bin\Release\LoadImageToEsp.exe.config
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\bin\Release\LoadImageToEsp.exe
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\bin\Release\LoadImageToEsp.pdb
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.csprojAssemblyReference.cache
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.Form1.resources
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.Properties.Resources.resources
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.csproj.GenerateResource.cache
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.csproj.CoreCompileInputs.cache
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.exe
+C:\Users\gigst\Documents\GitHub\LED-Matrix\LoadImageToEsp\LoadImageToEsp\obj\Release\LoadImageToEsp.pdb
